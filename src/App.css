@@ -1,0 +1,10 @@
+    @font-face {
+    font-family: 'THE SOLSTICE Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('THE SOLSTICE Regular'), url('ThesolsticeRegular-p7p6Z.woff') format('woff');
+    }
+
+    h1 {
+    	font-family: 'THE SOLSTICE Regular';
+    }
